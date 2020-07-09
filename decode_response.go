@@ -25,7 +25,7 @@ import (
 	"encoding/xml"
 
 	"github.com/beevik/etree"
-	"github.com/russellhaering/gosaml2/types"
+	"github.com/goabstract/gosaml2/types"
 	dsig "github.com/russellhaering/goxmldsig"
 	"github.com/russellhaering/goxmldsig/etreeutils"
 )

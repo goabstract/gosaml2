@@ -23,8 +23,8 @@ import (
 	"encoding/base64"
 	"encoding/xml"
 
-	saml2 "github.com/russellhaering/gosaml2"
-	"github.com/russellhaering/gosaml2/types"
+	saml2 "github.com/goabstract/gosaml2"
+	"github.com/goabstract/gosaml2/types"
 	dsig "github.com/russellhaering/goxmldsig"
 )
 
