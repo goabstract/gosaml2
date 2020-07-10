@@ -28,7 +28,7 @@ import (
 	"github.com/jonboulle/clockwork"
 	"github.com/goabstract/gosaml2"
 	"github.com/goabstract/gosaml2/types"
-	"github.com/russellhaering/goxmldsig"
+	"github.com/goabstract/goxmldsig"
 	"github.com/stretchr/testify/require"
 )
 

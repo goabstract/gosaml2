@@ -19,7 +19,7 @@ import (
 
 	"github.com/jonboulle/clockwork"
 	"github.com/goabstract/gosaml2"
-	"github.com/russellhaering/goxmldsig"
+	"github.com/goabstract/goxmldsig"
 )
 
 func TestValidateResponses(t *testing.T) {

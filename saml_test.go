@@ -30,7 +30,7 @@ import (
 
 	"github.com/beevik/etree"
 	"github.com/goabstract/gosaml2/types"
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/goabstract/goxmldsig"
 	"github.com/stretchr/testify/require"
 )
 

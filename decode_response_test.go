@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/jonboulle/clockwork"
-	"github.com/russellhaering/goxmldsig"
+	"github.com/goabstract/goxmldsig"
 	"github.com/stretchr/testify/require"
 )
 

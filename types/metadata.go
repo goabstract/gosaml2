@@ -17,7 +17,7 @@ import (
 	"encoding/xml"
 	"time"
 
-	dsigtypes "github.com/russellhaering/goxmldsig/types"
+	dsigtypes "github.com/goabstract/goxmldsig/types"
 )
 
 type EntityDescriptor struct {

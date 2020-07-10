@@ -25,7 +25,7 @@ import (
 
 	saml2 "github.com/goabstract/gosaml2"
 	"github.com/goabstract/gosaml2/types"
-	dsig "github.com/russellhaering/goxmldsig"
+	dsig "github.com/goabstract/goxmldsig"
 )
 
 func main() {

@@ -19,8 +19,8 @@ import (
 	"time"
 
 	"github.com/goabstract/gosaml2/types"
-	dsig "github.com/russellhaering/goxmldsig"
-	dsigtypes "github.com/russellhaering/goxmldsig/types"
+	dsig "github.com/goabstract/goxmldsig"
+	dsigtypes "github.com/goabstract/goxmldsig/types"
 )
 
 type ErrSaml struct {
